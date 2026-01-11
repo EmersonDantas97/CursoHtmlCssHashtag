@@ -1,0 +1,57 @@
+* { /*Selector universal*/
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    font-family: "Roboto", Arial, sans-serif;
+}
+
+.img-tumb{
+  width: 380px;
+}
+
+.img-avatar{
+  width: 36px;
+  height: 36px;
+  border-radius: 20px;
+}
+
+.parag-tvideo{
+
+}
+
+.caixa-textos{
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.parag-tcanal{
+  
+}
+
+.parag-infos{
+
+}
+
+.parag-teste{
+  background-color: red;
+  padding: 16px 32px 2px; /*Sentido horario*/
+  margin: 16px 32px 2px;
+  width: 380px;
+  border: 3px solid blue;
+}
+
+.parag-teste1{
+  background-color: red;
+}
+
+
+/*
+
+Padding é o espaçamento do item.
+Margim é o espaçamento externo.
+
+*/
